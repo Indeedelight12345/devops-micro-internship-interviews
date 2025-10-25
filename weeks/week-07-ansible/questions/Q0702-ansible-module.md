@@ -1,22 +1,19 @@
 ---
-id: Q0702
+id: Q0703
 title: Ansible Modules — purpose and usage
 difficulty: easy
 week: 07
-topics: [ansible, Modules]
-tags: [ansible, Modules, reuse, galaxy]
-author: rukevwe
+topics: [ansible, modules]
+tags: [ansible, ad-hoc, tasks, automation]
+author: rukevweubioworo
 reviewed: false
 
 ---
 
-## Questio
-what is Anible Modules?
-How do module help  perform  configuration  tasks on managed hosts
-How can you find or use build-in module
-
+## Question
+What is an Ansible module, and how is it different from a playbook?  
+Can you explain how modules are used to perform ad-hoc tasks?
 
 ## References
-- Ansible Docs — Modules
+- [Ansible Docs — Working With Modules](https://docs.ansible.com/ansible/latest/user_guide/modules_intro.html)
 
----
